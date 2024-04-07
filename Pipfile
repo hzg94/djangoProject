@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+pymysql = "*"
+ujson = "*"
+requests = "*"
+hypercorn = "*"
+redis = "*"
+pillow = "*"
+pyJWT = "*"
+django-cors-headers = "*"
+joblib = "*"
+numpy = "*"
+apscheduler = "*"
+django-apscheduler = "*"
+sklearn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

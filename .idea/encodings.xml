@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/aa.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/citydata.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/res/101010100.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/res/101020100.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/res/101030100.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/plugsin/test/requests_test/res/101320101.json" charset="GBK" />
+  </component>
+</project>

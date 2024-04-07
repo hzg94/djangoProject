@@ -1,0 +1,1 @@
+hypercorn.exe djangoProject.asgi:application
